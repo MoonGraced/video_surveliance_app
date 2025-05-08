@@ -1,0 +1,3 @@
+/home/kirillg/dev/video_surveliance_app/build/CMakeFiles/video_surveliance_app.dir
+/home/kirillg/dev/video_surveliance_app/build/CMakeFiles/edit_cache.dir
+/home/kirillg/dev/video_surveliance_app/build/CMakeFiles/rebuild_cache.dir

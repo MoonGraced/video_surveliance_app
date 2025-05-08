@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/video_surveliance_app.dir/link.d CMakeFiles/video_surveliance_app.dir/src/source_files/main.cpp.o -o video_surveliance_app
